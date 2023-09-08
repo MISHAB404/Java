@@ -3,8 +3,9 @@
 Open Terminal : <br>
         - javac filename.java <br>
         - java filename (without extention) <br>
-
-
+        
+Viva Question and Answers :
+https://chat.openai.com/share/dad24c1e-7a2c-4fd1-a2d9-2df4cba5dc64
 
 Applet simple definition
 ChatGPT
